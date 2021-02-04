@@ -1,0 +1,9 @@
+
+#Compiled files
+*.out
+
+#LaTeX files
+*.tex
+
+#VS Code
+.vscode/

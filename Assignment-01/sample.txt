@@ -1,0 +1,17 @@
+#include <stdio.h>
+//single line comment
+main() {
+	int a = 10,b = 20;
+	float f = 10.23;
+	char arr[] = "abcd";
+/*
+Multiline comment
+in the source file
+to test the code
+*/
+	if ( a > b )
+    	printf("a is greater");
+	else
+    	printf("b is greater");
+
+}
