@@ -1,8 +1,8 @@
 #include <stdio.h>
 //single line comment
 main() {
-	int a = 10,b = 20;
-	float f = 10.23;
+	int a = 10,b = -20;
+	float f = -10.23, g = 6.89;
 	char c = 'a';
 	char arr[] = "abcd";
 /*
@@ -14,5 +14,6 @@ to test the code
     	printf("a is greater");
 	else
     	printf("b is greater");
-
+	a += 5;
+	f >> 2;
 }
