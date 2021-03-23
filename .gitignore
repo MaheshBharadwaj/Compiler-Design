@@ -5,8 +5,16 @@
 #LaTeX files
 *.tex
 
+#Scripts
+*.sh
+
 #VS Code
 .vscode/
 
 #Lexer compiled file
 lex.yy.c
+
+#Yacc files
+y.tab.c
+y.tab.h
+
