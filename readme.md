@@ -6,3 +6,4 @@
  - [EX 03: Removing left recursion using C program](./Assignment-03)
  - [Ex 04: Implementation of Recursive Descent Parser](./Assignemnt-04)
  - [Ex 05: Desk calculator using yacc tool](./Assignment-05)
+ - [Ex 06: Syntax Analyser using yacc](./Assignment-06)

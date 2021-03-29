@@ -4,9 +4,11 @@
     #include<string.h>
     #include "y.tab.h"
     int debug=0;
+    int line=0;
 %}
 %%
-[ \t\n]* ;
+[ \t]+ ;
+\n {line++;}
 [0-9]+ { if(debug)printf("%s is an integer\n", yytext);return INT;}
 ("int"|"float"|"char"|"double") {if(debug)printf("%s is a data type\n", yytext);return DTYPE; }
 "if" {return IF;}
