@@ -7,3 +7,4 @@
  - [Ex 04: Implementation of Recursive Descent Parser](./Assignemnt-04)
  - [Ex 05: Desk calculator using yacc tool](./Assignment-05)
  - [Ex 06: Syntax Analyser using yacc](./Assignment-06)
+ - [Ex 07: Three address code generation using YACC](./Assignment-07)
